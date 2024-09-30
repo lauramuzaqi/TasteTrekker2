@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TasteTrekker2</string>
+    <string name="api_key">ca875a79f43d48089eb18bc6cf9087e6</string>
+    <string name="new_user_signup">New user? <b> Sign Up </b></string>
+    <string name="view_favorites">View Favorites</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963001172791",
+    "project_id": "tastetrekkerapp",
+    "storage_bucket": "tastetrekkerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963001172791:android:15952b0f685c97d101d0b2",
+        "android_client_info": {
+          "package_name": "com.example.tastetrekkerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbR1r9R6O3-1NpsFJ8saa7wmvD8LeT4zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
