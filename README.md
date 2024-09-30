@@ -21,7 +21,7 @@ TasteTrekker is a recipe app for Android users. It allows users to explore vario
 **Installation**
 
 1. Clone the repository to your local machine:
-git clone https://github.com/username/TasteTrekker.git
+git clone https://github.com/lauramuzaqi/TasteTrekker.git
 
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
