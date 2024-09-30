@@ -1,4 +1,4 @@
-****TasteTrekker****
+**TasteTrekker**
 
 TasteTrekker is a recipe app for Android users. It allows users to explore various recipes sourced from an API, search based on ingredients, filter by food category, and manage a list of favorite recipes. The app also includes sharing capabilities to send recipes via WhatsApp to friends.
 
