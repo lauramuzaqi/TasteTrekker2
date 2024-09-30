@@ -30,14 +30,14 @@ git clone https://github.com/username/TasteTrekker.git
 
 **Technologies Used**
 
-Language: Java
-API: [External API for fetching recipe data](https://spoonacular.com/food-api)
-UI: Android XML for designing the user interface
-Libraries:
-- Retrofit for API requests
-- Picasso for image loading
-- SQLite for local database (favorites)
-- Firebase Authentication for user registration/login
+- Language: Java
+- API: [External API for fetching recipe data](https://spoonacular.com/food-api)
+- UI: Android XML for designing the user interface
+- Libraries:
+  - Retrofit for API requests
+  - Picasso for image loading
+  - SQLite for local database (favorites)
+  - Firebase Authentication for user registration/login
 
 
 
